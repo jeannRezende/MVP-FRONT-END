@@ -6,6 +6,9 @@ O produto é uma agenda fácil, com funcionalidades simples e intuitivas, onde t
 
 Linguagens: HTML,CSS e JS.
 
+![image](https://github.com/jeannRezende/MVP-FRONT-END/assets/153687761/c2a30d06-decc-4be8-adf7-e20111ecb6be)
+
+
 Requisitos Funcionais:
 - Autenticação de Usuário:
 Os usuários devem ser capazes de fazer login no sistema usando credenciais válidas (nome de usuário e senha).
@@ -32,3 +35,5 @@ As operações de adição e exclusão de agendamentos devem ser eficientes.
 O sistema deve ser compatível com diferentes navegadores web para garantir uma experiência consistente para os usuários.
 - Responsividade:
 A aplicação deve ser responsiva, adaptando-se a diferentes tamanhos de tela, para suportar o acesso através de dispositivos móveis e desktops.
+
+
