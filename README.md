@@ -6,6 +6,11 @@ O produto é uma agenda fácil, com funcionalidades simples e intuitivas, onde t
 
 Linguagens: HTML,CSS e JS.
 
+Para fazer o teste pode usar o seguinte link do Netlify :https://benevolent-mousse-cae0cc.netlify.app/
+
+Usuario : 1
+Senha : 1
+
 ![image](https://github.com/jeannRezende/MVP-FRONT-END/assets/153687761/c2a30d06-decc-4be8-adf7-e20111ecb6be)
 
 
