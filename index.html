@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de Login</title>
+    <link rel="stylesheet" href="styles.css">
+    <div class="titulo">
+        <h1>AGENDA FÁCIL - NAF</h1>
+        <h2>LOGIN</h2>
+    </div>
+</head>
+<body>
+
+    <div class="container">
+        <div id="loginForm">
+            <p>Por favor insira seus dados de acesso.</p>
+            <label for="username">Usuário:</label>
+            <input type="text" id="username" required>
+            <label for="password">Senha:</label>
+            <input type="password" id="password" required>
+            <button onclick="login()">Login</button>
+        </div>
+        <div id="loginResult"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
